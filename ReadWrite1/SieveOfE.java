@@ -5,7 +5,6 @@ import java.util.TreeSet;
 public class SieveOfE {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		Set<Integer> nums = new TreeSet<Integer>();
 		int n = 200;
