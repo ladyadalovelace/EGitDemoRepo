@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Total {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub 
 		Scanner console = new Scanner(System.in);
 		System.out.print("Input file: ");
 		String inputFileName = console.next();
